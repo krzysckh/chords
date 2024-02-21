@@ -1,5 +1,16 @@
 Wolna Grupa Bukowina - Niedokończona jesienna fuga
 
+a/G:   302210
+a/F:   102210
+C7+:   x32000
+Esus4: 022200
+F7+:   1x3210
+H7:    x21202
+e7:    022003
+a7*:   x02013
+D7*:   xx0210
+Dsus4: xx0233
+
 A jeśli mnie dom buczyną spięty     a a/G a/F C7+
 tej nocy przyjmie w swoje pro--gi   Esus4 → E7   a → a/G → C
 zapalę gwiazdy w nocy głębi         g C7+ F7+ H7
@@ -8,7 +19,7 @@ a sam zakwitnę górskim głogiem      e7 → e   A7 d E7
 A jeśli mnie dom buczyną spięty
 tej nocy przyjmie w swoje progi
 zapalę gwiazdy w nocy głębi
-a sam zakwitnę głogiem
+a sam zakwitnę głogiem              a7* → a7 D7 → D7* e
 
 Beskid kołysze się i szumi           f C7+
 i chwiać się będzie drżeniem nieba   f C7+

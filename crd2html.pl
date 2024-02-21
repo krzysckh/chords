@@ -29,7 +29,9 @@ while (<>) {
   my $line = $_;
   if ($line =~ /^(.*): *([\dx]{6})/g) {
     my ($name, $how) = ($1, $2);
-    open my $f, ">:raw", "$dirname/$name.png";
+    my $fn = $name;
+    $fn =~ s!/!-!g;
+    open my $f, ">:raw", "$dirname/$fn.png";
     print $f $gtr->generate($name, $how)->png;
   } else {
     $line =~ s/((\s+|^)[CDEFGABH]#?(dim|m|maj|b|is|es)?(\d+)?\*?\+?(\/[CDEFGABH])?(?=\s+|$))/<span class="chord">$1<\/span>/gi;
