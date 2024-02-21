@@ -55,7 +55,10 @@ for (sort { lc($a) cmp lc($b) } keys %h) {
 
 print $f <<__
 </ul>
-<div> <img src="powered_by_perl.gif"/> </div>
+<span>
+  <a href="<https://www.perl.org/"><img alt="powered by perl" src="powered_by_perl.gif"></a>
+  <a href="http://plan9.stanleylieber.com/mothra/"><img src="https://pub.krzysckh.org/mothracompat.gif" alt="mothra compatible"></a>
+</span>
 <script src="fuzzysort.js"></script>
 <script defer src="search.js"></script>
 </body>
