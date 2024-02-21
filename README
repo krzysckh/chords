@@ -1,0 +1,4 @@
+pliki dla https://pub.krzysckh.org/chords
+
+crontab:
+  @daily sh -c "cd /var/www/pub/chords ; perl create-index.pl"

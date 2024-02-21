@@ -1,0 +1,32 @@
+* {
+  font-family: monospace;
+}
+
+.idx-title {
+}
+
+.title {
+  font-style: italic;
+}
+
+.chord {
+  font-weight: bold;
+  color: blue;
+}
+
+@media (prefers-color-scheme: dark) {
+  * {
+    background-color: #222222;
+    color: #dedede;
+  }
+  .chord {
+    color: #A451EE;
+  }
+  a {
+    color: #65D61C;
+    font-weight: bold;
+  }
+  img {
+   filter: hue-rotate(180deg) invert(100%);
+  }
+}
