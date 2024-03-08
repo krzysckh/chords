@@ -2,9 +2,9 @@ Wolna Grupa Bukowina  - Kołysanka dla Joanny II
 
 https://tabs.ultimate-guitar.com/tab/4150063
 
-D7/F#  2 X X 2 1 2
-Gaug   X X 5 4 4 3
-A7b9   X 0 2 3 2 3
+D7/F#: 2xx212
+Gaug : xx5443
+A7b9 : x02323
 
 C Cmaj7 F Fm C Cmaj7 F C F D7/F# G Gaug
 
