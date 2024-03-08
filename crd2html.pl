@@ -15,8 +15,10 @@ print <<_
 <head>
 <meta charset="utf-8">
 <link rel="stylesheet" href="chord.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+<p><a href="index.html">[powrót]</a></p>
 <pre>
 _
 ;

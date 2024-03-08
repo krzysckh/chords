@@ -11,6 +11,8 @@ const init = () => {
 
     body.prepend(document.createElement("br"));
     body.prepend(searchbar);
+    searchbar.focus();
+    searchbar.select();
 }
 
 const search = (_) => {
