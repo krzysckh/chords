@@ -4,6 +4,14 @@ G:  32000x
 d:  xx0230
 C*: 1x320x
 
+e |-----------------------|-------0--------0-------|
+h |-------1P0--------0----|-3--------3--------3----|
+g |-2----------0--------0-|----2--------2--------2-|
+d |----2----------0-------|-0----------------------|
+a |-0---------------------|------------------------|
+e |------------3----------|------------------------|
+
+
 C*......
 
 Spróbuj powiedzieć to                     a G d
@@ -28,16 +36,16 @@ Jeśli Ty nie pomożesz dziś miłości
 
 E.... (takie bite wejście)
 
-(akordy te same, tylko barowe i bite, nie plumkane)
+(akordy tym razem barowe i bite, nie plumkane)
 
-Moja i Twoja nadzieja
-Uczyni realnym krok w chmurach
-Moja i Twoja nadzieja
-Pozwoli uczyni nam cuda
+Moja i Twoja nadzieja                    a G F d  a G F d
+Uczyni realnym krok w chmurach           a G F d  a G F d
+Moja i Twoja nadzieja                    a G F d  a G F d
+Pozwoli uczyni nam cuda                  a G F d  a G F d
 
 E....
 
-Nic, naprawdę nic nie pomoże
-Jeśli Ty nie pomożesz dziś miłości
-Nic, naprawdę nic nie pomoże
-Jeśli Ty nie pomożesz dziś miłości
+Nic, naprawdę nic nie pomoże             a G F d
+Jeśli Ty nie pomożesz dziś miłości       a G F d
+Nic, naprawdę nic nie pomoże             a G F d
+Jeśli Ty nie pomożesz dziś miłości       a G F d
