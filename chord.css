@@ -1,5 +1,11 @@
+@font-face {
+  font-family: "Lilex";
+  src:
+    local("Lilex"),
+    url("/_fonts/Lilex/ttf/Lilex-Regular.ttf")
+}
 * {
-  font-family: monospace;
+  font-family: Lilex, monospace;
 }
 
 .idx-title {

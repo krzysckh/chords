@@ -18,7 +18,8 @@ print <<_
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<p><a href="index.html">[powrót]</a></p>
+<span><a href="index.html">[powrót]</a></span>
+<span><a href="#" onclick="print()">[drukuj]</a></span>
 <pre>
 _
 ;
