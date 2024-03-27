@@ -1,0 +1,47 @@
+Witajcie w naszej bajce - Akademia Pana Kleksa
+
+a*:  x02230
+d6:  xx0101
+d6*: xx0100
+d*:  0xxxx7
+A:   577655
+D:   x57775
+H:   799877
+E:   x79997
+
+capo 1
+
+  a        a* a   a* a
+Witajcie w naszej bajce,
+     a     a* a a* a
+słoń zagra na fujarce
+  d6 d6* d6  d6* d*
+Pino-kio nam zaś-piewa,
+  d6 d6* d6 d6* a
+zatańczą wkoło  drzewa,
+
+Tu wszystko jest możliwe,      a a* a a* a
+zwierzęta są szczęśliwe,       a a* a a* a
+A dzieci wiem coś o tym        d6 d6* d6 d6* d*
+latają samolotem.              d6 d6* d6 d6* a
+
+A          D
+Nikt tutaj nie zna głodu,
+A             D
+  nikt tu nie czuje chłodu
+H         E
+  I nawet ja nie kłamię,
+H              E
+  nikt się nie skarży mamie.
+
+(solo)
+
+Witajcie w naszej bajce, słoń zagra na fujarce,
+Pinokio nam zaśpiewa, zatańczą wkoło drzewa,
+Bo z nami jest weselej, ruszymy razem w knieje,
+A w kniejach i dąbrowach przygoda już się chowa.
+
+My ją znajdziemy sami, my chłopcy z dziewczętami,
+A wtedy daję słowo, że będzie kolorowo.
+
+(solo)
