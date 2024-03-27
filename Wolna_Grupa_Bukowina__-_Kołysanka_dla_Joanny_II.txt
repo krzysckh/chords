@@ -1,64 +1,40 @@
 Wolna Grupa Bukowina  - Kołysanka dla Joanny II
 
-https://tabs.ultimate-guitar.com/tab/4150063
-
 D7/F#: 2xx212
-Gaug : xx5443
-A7b9 : x02323
+A7+:   x02030
 
-C Cmaj7 F Fm C Cmaj7 F C F D7/F# G Gaug
+C C7+  F f C C7+  F C F D7/F# G G+
 
-     C Cmaj7     F        Fm
+     C C7+       F        f
 Gdzy śpisz  obca lampy światłu
-     C       Cmaj7       C7
+     C       C7+         C7
 W półmroku rozgrzanej pościeli
-     Fm   Fm6      C     Am
+     f    f6      C     a
 Moje pióro   twoje rysy kreśli
-    F      D7/F#   Gsus4  G
+    F      D7/F#   G
 słowami tworzonymi pomału
 
-
-      C     Cmaj7    F         G7
-Jakże nazwać     nad którą sie czuwa
-       A7               A7b9
+      C     C7+    F         G7
+Jakże nazwać   nad którą sie czuwa
+       A7+             A7
 Ciepła garść w oprawie uśmiechu
-      Dm7          Fm        C     Am
+      d7           f         C     a
 Każde słowo innych słów jest echem
-    F            D7/F#  Gsus4   G
+    F            D7     G
 A z nowymi idzie jak po grudzie
 
-C Cmaj7 F Fm C Cmaj7 F C F D7/F# G Gaug
-
-    C Cmaj7     F         Fm
 Gdy drzwi   zostawiasz otwarte
-     C          Cmaj7     C7
 Dla szorstkich zapachów drogi
-      Fm      Fm6       C    Am
 Pomna nocy leżących odłogiem
-        F       D7/F#        Gsus4 G
 I wciąż pytań bezsennych czy warto
 
-
-      C     Cmaj7    F         G7
 Jakże nazwać     nad którą sie czuwa
-       A7               A7b9
 Ciepła garść w oprawie uśmiechu
-      Dm7          Fm        C     Am
 Każde słowo innych słów jest echem
-    F            D7/F#  Gsus4   G
 A z nowymi idzie jak po grudzie
 
-C Cmaj7 F Fm C Cmaj7 F C F D7/F# G Gaug
 
-
-    C Cmaj7    F           Fm
-Gdy my---śl zmęczona w pół drogi
-      C        Cmaj7    C7
+Gdy myśl zmęczona w pół drogi
 W dom zawita o stacji tysiąc
-        Fm          Fm6      C     Am
 Daj jej chwilę przy tobie odpocząć
-      F           D7/F#   Gsus4 G
-Bo ta myśl ciągle myśli o to---bie
-
-C Cmaj7 F Fm C Cmaj7 F C Cmaj7 F C Cmaj7 F Fm
-C Cmaj7 F C Cmaj7 F C Cmaj7 F C F C F C F C F
+Bo ta myśl ciągle myśli o tobie
