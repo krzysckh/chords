@@ -20,6 +20,11 @@
   color: blue;
 }
 
+.chord-image img {
+  width: 10vmin;
+  image-rendering: crisp-edges;
+}
+
 @media (prefers-color-scheme: dark) {
   * {
     background-color: #222222;
@@ -33,6 +38,7 @@
     font-weight: bold;
   }
   img {
-   filter: hue-rotate(180deg) invert(100%);
+    filter: hue-rotate(180deg) invert(100%);
   }
 }
+

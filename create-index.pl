@@ -1,7 +1,39 @@
 #!/usr/bin/perl
+# -*- mode: cperl; cperl-indent-level: 2; -*-
 
 use strict;
 use warnings;
+use feature 'say';
+
+my $PDFJAM = "/root/pdfjam/bin/pdfjam";
+my @cpdf_names;
+
+sub createpdf() {
+  my $s = join " ", map {"'" . $_ . ".txt'" } @cpdf_names;
+  print "chords.ps ...";
+  `cat $s | u2ps -w - > chords.ps`;
+  say "\rchords.ps OK";
+  print "chords.pdf ...";
+  `pdf2ps chords.ps chords.pdf`;
+  say "\rchords.pdf OK";
+}
+
+sub should($$) {
+  my ($nam, $T) = @_;
+  return 1 if ! -f "$nam.$T";
+  open my $txt, "$nam.txt" or die;
+  open my $pdf, "$nam.$T" or die;
+
+  my @s1 = stat $txt;
+  my @s2 = stat $pdf;
+
+  my ($d1, $d2) = ($s1[9], $s2[9]);
+
+  close $txt;
+  close $pdf;
+
+  return $d1 > $d2
+}
 
 sub basename ($) {
   my ($f) = @_;
@@ -45,9 +77,19 @@ _
 for (sort { lc($a) cmp lc($b) } keys %h) {
   my $friendly = $_;
   my $real = $h{$friendly};
+  push @cpdf_names, $real;
 
-  `perl crd2html.pl '$real.txt' < $real.txt > $real.html` # if ! -f "$real.html"; # yeah just re-make everything
-  ;
+  if (should($real, "html")) {
+    print "$real html ...";
+    `perl crd2html.pl '$real.txt' < $real.txt > $real.html`; # if ! -f "$real.html"; # yeah just re-make everything
+    say "\r$real html OK";
+  }
+
+  if (should($real, "pdf")) {
+    print "$real pdf ...";
+    `u2ps -w - < $real.txt | ps2pdf - > $real.pdf`;
+    say "\r$real pdf OK";
+  }
 
   print $f qq!<li class="song"><span class="idx-title">$friendly</span>
   <a href="$real.html">[HTML]</a> <a href="$real.txt">[TEXT]</a></li>!;
@@ -67,4 +109,8 @@ __
 ;
 
 close $f;
-print "OK\n";
+say "INDEX OK";
+
+createpdf;
+
+say "FULL PDF OK";

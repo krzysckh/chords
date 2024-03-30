@@ -1,3 +1,7 @@
 *.html
 *.data
 *.~undo-tree~
+*.pdf
+*.ps
+*.core
+*.log
