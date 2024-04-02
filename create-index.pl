@@ -20,7 +20,7 @@ sub createpdf() {
 
 sub should($$) {
   my ($nam, $T) = @_;
-  return 1 if ! -f "$nam.$T";
+  return 1 if ! -e "$nam.$T";
   open my $txt, "$nam.txt" or die;
   open my $pdf, "$nam.$T" or die;
 
@@ -79,7 +79,7 @@ for (sort { lc($a) cmp lc($b) } keys %h) {
   my $real = $h{$friendly};
   push @cpdf_names, $real;
 
-  if (should($real, "html")) {
+  if (should($real, "html") or ! -e "$real.txt.data") {
     print "$real html ...";
     `perl crd2html.pl '$real.txt' < $real.txt > $real.html`; # if ! -f "$real.html"; # yeah just re-make everything
     say "\r$real html OK";

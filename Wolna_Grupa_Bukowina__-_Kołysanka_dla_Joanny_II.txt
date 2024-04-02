@@ -1,17 +1,15 @@
 Wolna Grupa Bukowina  - Kołysanka dla Joanny II
 
-D7/F#: 2xx212
+D7/Fis: 2xx212
 A7+:   x02030
-
-C C7+  F f C C7+  F C F D7/F# G G+
 
      C C7+       F        f
 Gdzy śpisz  obca lampy światłu
      C       C7+         C7
 W półmroku rozgrzanej pościeli
-     f    f6      C     a
-Moje pióro   twoje rysy kreśli
-    F      D7/F#   G
+     f           C     a
+Moje pióro twoje rysy kreśli
+    F      D7/Fis   G
 słowami tworzonymi pomału
 
       C     C7+    F         G7
@@ -23,18 +21,17 @@ Każde słowo innych słów jest echem
     F            D7     G
 A z nowymi idzie jak po grudzie
 
-Gdy drzwi   zostawiasz otwarte
-Dla szorstkich zapachów drogi
-Pomna nocy leżących odłogiem
-I wciąż pytań bezsennych czy warto
+Gdy drzwi zostawiasz otwarte               C C7+ F f
+Dla szorstkich zapachów drogi              C C7+ C7
+Pomna nocy leżących odłogiem               f C a
+I wciąż pytań bezsennych czy warto         F D7/Fis G
 
-Jakże nazwać     nad którą sie czuwa
-Ciepła garść w oprawie uśmiechu
-Każde słowo innych słów jest echem
-A z nowymi idzie jak po grudzie
+Jakże nazwać  nad którą sie czuwa          C C7+ F G7
+Ciepła garść w oprawie uśmiechu            A7+ A7
+Każde słowo innych słów jest echem         d7 f C a
+A z nowymi idzie jak po grudzie            F D7 G
 
-
-Gdy myśl zmęczona w pół drogi
-W dom zawita o stacji tysiąc
-Daj jej chwilę przy tobie odpocząć
-Bo ta myśl ciągle myśli o tobie
+Gdy myśl zmęczona w pół drogi              C C7+ F f
+W dom zawita o stacji tysiąc               C C7+ C7
+Daj jej chwilę przy tobie odpocząć         f C a
+Bo ta myśl ciągle myśli o tobie            F D7/Fis G
