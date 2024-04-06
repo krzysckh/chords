@@ -37,6 +37,7 @@ while (<>) {
     open my $f, ">:raw", "$dirname/$fn.png";
     print $f $gtr->generate($name, $how)->png;
   } else {
+    $line =~ s!(https?://.*)(?= |$)!<a href="$1">$1</a>!g;
     $line =~ s/((\s+|^)[CDEFGABH]#?(dim|m|maj|b|is|es)?(\d+)?\*?\+?(\/[CDEFGABH])?(?=\s+|$))/<span class="chord">$1<\/span>/gi;
     push @lines, $line;
   }

@@ -1,0 +1,80 @@
+Wolna Grupa Bukowina - Łabędzi puch
+
+h7:  x20202
+h7*: x20200
+a7*: x02013
+h*:  xxxxx7
+a6:  x02012
+
+REFREN:
+  * mscz: https://pub.krzysckh.org/łabędzi-puch.mscz
+  * pdf: https://pub.krzysckh.org/łabędzi-puch.pdf
+
+capo 2
+
+h
+Z monoklem w oku
+Fis
+W podróż do wód
+a
+Ze śpiewem opon
+E7
+Po nitkach dróg
+d7
+W salach lustrzanych
+des                  Fis
+To świt, blady świt, wielki bal
+
+h
+Białym latawcem
+Fis
+w górę, do gwiazd
+a
+Chmurką z dmuchawca,
+E7
+do ptasich gniazd
+d7               des
+Może jutro, lecz dziś
+              Fis
+Dziś wszystko mam
+
+(ref.)
+
+h7  h7* h7  a7* h* h7
+Niezmiennie kołysz mnie
+h7 h7* h8 a7* h* h7
+Bezsennie kołysz mnie
+Za ścianą pijany świat             ...? - (idk patrz TAB)
+W koło kręci się
+Niezmiennie kołysz mnie
+Bezsennie kołysz mnie
+Różowy, tęczowy, niesiony wiatrem mknie
+Lekki łabędzi puch
+Lekki łabędzi puch
+Lekki łabędzi puch
+I ja
+
+Z twarzą w ekranie                         h
+W nudę i fałsz                             Fis
+W mydlanej pianie                          a
+Ulicznych plaż                             E7
+W piesko - niebieskie rzuciki              d7 des
+W krzyżyki Ten raj                         Fis
+Święta kolęda,                             h
+przyjęcia raut                             Fis
+W porannej twarzy                          a
+wytworny kształt                           E7
+Kłębi się wczoraj Lecz ty                  d7 des
+Ty, chwilo trwaj                           Fis
+
+Niezmiennie kołysz mnie
+Bezsennie kołysz mnie
+Za ścianą pijany świat
+W koło kręci się
+Niezmiennie kołysz mnie
+Bescennie kołysz mnie
+Różowy, tęczowy, niesiony wiatrem mknie
+Lekki łabędzi puch
+Lekki łabędzi puch
+Lekki łabędzi puch
+I ja
