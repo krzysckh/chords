@@ -49,12 +49,17 @@ for (glob "$dirname/*.png") {
 }
 print qq(</div>);
 
-print "<span class=\"title\"> $title </span><hr>";
+print qq(
+<span class="title"> $title </span>
+<hr>
+<div id="auto-scroll-opts"></div>
+);
 
 print for @lines;
 
 print <<__
 </pre>
+<script defer src="scroll-chords.js"></script>
 </body>
 </html>
 __
