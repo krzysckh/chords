@@ -45,6 +45,7 @@ while (<>) {
 
 print qq(<div id="chords-section">);
 for (glob "$dirname/*.png") {
+  s/"/\\"/g;
   print qq(<span class="chord-image"><img src="$_" alt="[chord image for $_]" /></span>)
 }
 print qq(</div>);
